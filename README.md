@@ -140,3 +140,6 @@ Application will open in browser:
 
 http://localhost:8501
 
+##Deployed at 
+https://startup-research-ai-mq6rkfk7eghmtoihjppja8.streamlit.app
+
